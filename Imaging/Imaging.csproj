@@ -11,6 +11,7 @@
     <PackageLicenseUrl>https://github.com/jonathanpotts/Imaging/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jonathanpotts/Imaging</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jonathanpotts/Imaging</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

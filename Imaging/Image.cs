@@ -63,7 +63,7 @@ namespace JonathanPotts.Imaging
     public enum ImageEncodingFormat
     {
         /// <summary>
-        /// Adapatable Scalable Texture Compression (ASTC)
+        /// Adaptive Scalable Texture Compression (ASTC)
         /// </summary>
         Astc,
         /// <summary>
