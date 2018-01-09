@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>JonathanPotts.Imaging</AssemblyName>
+    <RootNamespace>JonathanPotts.Imaging</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Jonathan Potts</Authors>
+    <Company></Company>
+    <Description>A library offering basic image manipulation capabilities for cross-platform development (.NET Framework, .NET Core, ASP.NET, and Xamarin).</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="1.59.3" />
+  </ItemGroup>
+
+</Project>
