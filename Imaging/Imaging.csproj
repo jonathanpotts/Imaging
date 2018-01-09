@@ -8,6 +8,9 @@
     <Authors>Jonathan Potts</Authors>
     <Company></Company>
     <Description>A library offering basic image manipulation capabilities for cross-platform development (.NET Framework, .NET Core, ASP.NET, and Xamarin).</Description>
+    <PackageLicenseUrl>https://github.com/jonathanpotts/Imaging/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jonathanpotts/Imaging</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jonathanpotts/Imaging</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
