@@ -13,6 +13,8 @@ This library should work on all .NET platforms that support .NET Standard 2.0 in
 * [Xamarin.Android](https://github.com/xamarin/xamarin-android) 8.0
 * [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/index) 10.0.16299
 
+*Note*: Linux binaries are not included with the SkiaSharp NuGet package. However, they can be downloaded from the [SkiaSharp releases page](https://github.com/mono/SkiaSharp/releases). Make sure to get the binaries for the SkiaSharp version used by the version of this library being used.
+
 ## Example Usage
 
 ```csharp
