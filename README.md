@@ -1,4 +1,7 @@
 # JonathanPotts.Imaging
+
+[![nuget downloads](https://img.shields.io/nuget/dt/JonathanPotts.Imaging?label=nuget%20downloads)](https://nuget.org/packages/JonathanPotts.Imaging/)
+
 A library offering basic image manipulation capabilities for cross-platform development (.NET Framework, .NET Core, ASP.NET, and Xamarin).
 
 Uses [.NET Standard](https://github.com/dotnet/standard) and [SkiaSharp](https://github.com/mono/SkiaSharp).
